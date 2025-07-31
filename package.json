@@ -13,5 +13,18 @@
     "mocha": "^11.0.1"
   },
   "author": "Task Manager Team",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.18.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvngu0/taskmanager.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/kvngu0/taskmanager/issues"
+  },
+  "homepage": "https://github.com/kvngu0/taskmanager#readme"
 }
